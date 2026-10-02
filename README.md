@@ -4,7 +4,6 @@
 - [size-problem](size-problem.md)
 - [out-timer](out-timer.md)
 - [psychology](psychology.md)
-- [space](space.md)
 - [love](love.md)
 - [vertical](vertical.md)
 
