@@ -6,6 +6,7 @@
 - [psychology](psychology.md)
 - [love](love.md)
 - [vertical](vertical.md)
+- [intelligence-role](intelligence-role.md)
 
 ## Архив
 
