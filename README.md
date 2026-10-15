@@ -6,6 +6,10 @@
 - [psychology](psychology.md)
 - [love](love.md)
 - [vertical](vertical.md)
+- [language](language.md)
+- [society](society.md)
+- [countries](countries.md)
+- [responsibility](responsibility.md)
 - [intelligence-role](intelligence-role.md)
 
 ## Архив
