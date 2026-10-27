@@ -11,6 +11,7 @@
 - [countries](countries.md)
 - [responsibility](responsibility.md)
 - [intelligence-role](intelligence-role.md)
+- [black-box-systems](black-box-systems.md)
 
 ## Архив
 
