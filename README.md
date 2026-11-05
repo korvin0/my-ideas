@@ -12,6 +12,7 @@
 - [responsibility](responsibility.md)
 - [intelligence-role](intelligence-role.md)
 - [black-box-systems](black-box-systems.md)
+- [rating-64](rating-64.md)
 
 ## Архив
 
